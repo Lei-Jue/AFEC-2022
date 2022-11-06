@@ -1,5 +1,6 @@
 
 # some of command in git version, "2022-11-06 22:10:00 CST" change in website
+# change in "2022-11-06 22:56:12 CST", hope to push successfully
 git config --global user.name "Lei-Jue"
 git config --global user.email "leijue1999@gmail.com"
 git config --global --list
