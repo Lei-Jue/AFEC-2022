@@ -9,5 +9,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
  write something to test the git in r stuiod
-change in "2022-11-06 21:34:06 CST"
+change in "2022-11-06 22:00:43 CST"
 change 2 in ```r Sys.time()`
