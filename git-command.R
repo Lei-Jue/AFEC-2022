@@ -1,5 +1,5 @@
 
-# some of command in git version, change in "2022-11-06 21:33:15 CST"
+# some of command in git version, "2022-11-06 21:40:02 CST"
 git config --global user.name "Lei-Jue"
 git config --global user.email "leijue1999@gmail.com"
 git config --global --list
