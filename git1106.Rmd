@@ -1,0 +1,12 @@
+---
+title: "git1106"
+author: "Lei Jue"
+date: "2022/11/6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ write something to test the git in r stuiod
+change in "2022-11-06 21:34:06 CST"
