@@ -13,7 +13,7 @@ git remote add origin https://github.com/Lei-Jue/AFEC-2022.git
 # if false, try to replace origin to dev. from https://komodor.com/learn/how-to-fix-fatal-remote-origin-already-exists-error/
 git remote add dev https://github.com/Lei-Jue/AFEC-2022.git
 git add .# add all file in folder to commit 
-git commit -m "first commit"
+git commit -m "forth commit" # 似乎无法从Git窗口实现
 git push -u dev master
 
 git remote -v
